@@ -1,0 +1,21 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar{
+    background-color:cadetblue;
+}
+
+.quemsoueu{
+    background-color: rgb(80, 156, 137);
+    color: white;
+}
+
+
+.magin{
+    padding-bottom: 50%;
+    padding-top: 10%;
+}
+
+.redes_sociais{
+    background-color:dimgray;
+}
